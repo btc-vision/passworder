@@ -1,6 +1,6 @@
 {
   "name": "@btc-vision/passworder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple browserifiable module for password-encrypting JS objects.",
   "keywords": [
     "Browser",
@@ -51,7 +51,7 @@
     "@typescript-eslint/eslint-plugin": "^5.41.0",
     "@typescript-eslint/parser": "^5.41.0",
     "browserify": "^17.0.0",
-    "eslint": "^8.26.0",
+    "eslint": "8.38.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsdoc": "^39.3.25",
